@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Mundo Estatisíco - Econometria
 
-You can use the [editor on GitHub](https://github.com/mundoestatistico/econometria/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Pagina principal [Mundo Estatístico](https://mundoestatistico.github.io) para saber mais sobre o nosso projeto.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Sempre em busca de promoção do conhecimento de forma simples e descomplicada.
 
-### Markdown
+### Econometria
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Nos estudos realizados aqui usaremos como referencia principal o livro: Econometria Básica 3ed de Domador N. Gujarati.
 
-- Bulleted
-- List
+### O que é Econometria
 
-1. Numbered
-2. List
+É o estudo da "medida econômica", é a análise quantitativa dos fenômenos econômicos com uso da **matemática**, inferência **estatística** e ferramentas de teoria econômica buscando inferir o papel da **economia**.
 
-**Bold** and _Italic_ and `Code` text
+Busca entender das leis econômicas.
 
-[Link](url) and ![Image](src)
+Estudo:
+1.Economia
+2.Matemática
+3.Estatística
+4. Inferência
+![Image](src = "/home/teddy/Imagens/analysis640.jpg")
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Metodologia da Econometria
+Em linhas gerais, à metodologia econométrica tradicional segue o caminho:
+- Formulação da teoria ou **Hipótese**
+- Modelo matemático da teoria
+- Modelo econométrico da teoria
+- Obtenção dos dados
+- Estimar os parâmetros
+- Testar a Hipótese
+- Previsão ou predção
+- Utilização do modelo 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mundoestatistico/econometria/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Hipótese
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
