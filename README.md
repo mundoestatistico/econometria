@@ -21,7 +21,8 @@ Estudo:
 2.Matemática
 3.Estatística
 4. Inferência
-![Image](src = "/home/teddy/Imagens/analysis640.jpg")
+
+![Image](src = "imagens/analysis640.jpg")
 ```
 
 
