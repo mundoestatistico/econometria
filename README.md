@@ -22,7 +22,7 @@ Estudo:
 3.Estatística
 4. Inferência
 
-![Image](src = "imagens/analysis640.jpg")
+![Image](src = "https://github.com/mundoestatistico/econometria/commit/273fec7bd781858ddd9363c5d5e57ad9315e3f78")
 ```
 
 
