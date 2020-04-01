@@ -1,0 +1,2 @@
+# econometria
+pagina de econometria
